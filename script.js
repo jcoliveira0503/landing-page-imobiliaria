@@ -1,0 +1,1 @@
+function showMsg(){document.getElementById('msg').textContent='Demo interaction — connect the search to a real property database.'}function lead(e){e.preventDefault();document.getElementById('leadmsg').textContent='Demo lead submitted — connect to CRM/WhatsApp in production.';return false}
